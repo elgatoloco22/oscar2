@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'django.contrib.sites',
     'django.contrib.flatpages',
+    'gunicorn',
 
     'oscar.config.Shop',
     'oscar.apps.analytics.apps.AnalyticsConfig',

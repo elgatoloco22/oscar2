@@ -1,1 +1,1 @@
-web: gunicorn voy.wsgi
+web: gunicorn voy/voy/voy.wsgi
