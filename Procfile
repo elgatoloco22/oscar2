@@ -1,1 +1,1 @@
-web: gunicorn voy/voy/voy.wsgi --preload 
+web: gunicorn voy.wsgi --preload 
