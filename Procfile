@@ -1,1 +1,1 @@
-web: gunicorn voy1.voy.wsgi:application --log-file
+web: gunicorn voy1.voy.wsgi:application
